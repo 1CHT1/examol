@@ -34,7 +34,7 @@ spring:
     mode: HTML
     servlet:
       content-type: text/html
-#开发时让无缓存
+
 
 mybatis:
   type-aliases-package: com.zhao.quiz.domain
