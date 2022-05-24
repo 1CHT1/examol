@@ -57,12 +57,12 @@ class QuizApplicationTests {
                  String ss = String.join(",", list1);
                  System.out.println(ss);
                  System.out.println("+++++++++++++++++++++++++++++++++");
-                System.out.println("字符串转List");
+                System.out.println("String转List");
                  List<String> listString = Arrays.asList(ss.split(","));
                  for (String string : listString) {
                          System.out.println(string);
                     }
-                System.out.println("+++++++++++++++++++++++++++++++++");
+                System.out.println("++++++++++++++++++++++++++++++++");
 
     }
     @Test
