@@ -1,6 +1,7 @@
 package com.zhao.quiz.controller;
 
 import com.zhao.quiz.domain.*;
+import com.zhao.quiz.domain.Record;
 import com.zhao.quiz.service.ExamService;
 import com.zhao.quiz.service.PaperService;
 import com.zhao.quiz.service.RecordService;
