@@ -48,7 +48,7 @@ class QuizApplicationTests {
     }
     @Test
     public void test3(){
-        System.out.println("+++++++++++++++++++++++++++++++++");
+        System.out.println("++++++++++++++++++++++++++++++++");
                  System.out.println("List转字符串");
                  List<String> list1 = new ArrayList<String>();
                 list1.add("1");
