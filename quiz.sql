@@ -49,10 +49,10 @@ CREATE TABLE `classe`  (
 -- ----------------------------
 INSERT INTO `classe` VALUES (1, '计算机1班', 1);
 INSERT INTO `classe` VALUES (2, '计算机2班', 2);
-INSERT INTO `classe` VALUES (3, '电子商务1班', 3);
-INSERT INTO `classe` VALUES (4, '数字媒体1班', 10);
-INSERT INTO `classe` VALUES (13, '电子信息1班', 9);
-INSERT INTO `classe` VALUES (15, '电子商务2班', 6);
+INSERT INTO `classe` VALUES (3, 'test1班', 3);
+INSERT INTO `classe` VALUES (4, 'test2班', 10);
+INSERT INTO `classe` VALUES (13, 'test3班', 9);
+INSERT INTO `classe` VALUES (15, 'test4班', 6);
 
 -- ----------------------------
 -- Table structure for exam
