@@ -14,7 +14,7 @@ public class Question {
     private String questionOpd;
     private String questionOpright;
 
-    public Question( int questionId, String questionType, String questionCourse, String questionName, String questionOpa, String questionOpb, String questionOpc, String questionOpd, String questionOpright) {
+    public Question(int questionId, String questionType, String questionCourse, String questionName, String questionOpa, String questionOpb, String questionOpc, String questionOpd, String questionOpright) {
         this.questionId = questionId;
         this.questionType = questionType;
         this.questionCourse = questionCourse;
