@@ -3,8 +3,6 @@ package com.zhao.quiz.domain;
 import lombok.Data;
 
 /**
- * @Auther: swung
- * @Date: 2020/2/1 11:43
  * @Description:
  */
 @Data
